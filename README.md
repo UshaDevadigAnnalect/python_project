@@ -1,2 +1,8 @@
 # python_project
-I have developed project
+#I have developed project
+
+
+#url:  http://127.0.0.1:8000/
+
+#username: admin
+#password: admin
